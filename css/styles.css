@@ -115,7 +115,7 @@ a {
   color: #404bbf;
 }
 
-.header-menu:hover:after {
+.header-menu::after {
   content: "";
   color: #404bbf;
   width: 100%;
