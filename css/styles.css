@@ -340,7 +340,7 @@ a {
     0px 1px 1px rgba(46, 47, 66, 0.16), 0px 2px 1px rgba(46, 47, 66, 0.08);
 }
 
-.section-four-hidden-p:hover {
+.section-four-li:hover .section-four-hidden-p {
   transform: translateY(0%);
 }
 
